@@ -1,5 +1,5 @@
 # haha
-name: scrape
+name: scraper
 on:
   workflow_dispatch:
   # schedule/cron means "on a set schedule"
